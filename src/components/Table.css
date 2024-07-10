@@ -1,0 +1,35 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    text-align: center;
+    margin: 30px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+    }
+.container{
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 40px;
+}
+button:hover{
+    transform: scale(1.03);
+}
+
+.bg-body-secondary {
+    --bs-bg-opacity: 1;
+    background-color:#212529 !important;
+}
+
+input{
+    margin:0 0 10px 0;
+    height: 40px;
+    width: 28%;
+    border-radius: 8px;
+    border: none;
+    margin: 4px;
+    text-align: center;
+}

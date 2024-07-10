@@ -1,0 +1,35 @@
+html, body{
+    margin: 0;
+    padding: 0;
+}
+h4{
+    text-align: center;
+    margin: 10px;
+    color: white;
+    text-transform: uppercase;
+    }
+.container{
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 50px;
+}
+button:hover{
+    transform: scale(1.03);
+}
+
+.bg-body-primary {
+    --bs-bg-opacity: 1;
+    background-color: #3636368c !important;
+}
+
+input{
+    margin:0 0 10px 0;
+    height: 35px;
+    width: 20%;
+    border-radius: 8px;
+    border: none;
+    margin: 4px;
+    text-align: center;
+}
