@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dharanshu/Table.git/static/css/main.3ec5730f.css",
+    "main.js": "/Dharanshu/Table.git/static/js/main.618d7017.js",
+    "static/js/453.3ab8d62e.chunk.js": "/Dharanshu/Table.git/static/js/453.3ab8d62e.chunk.js",
+    "index.html": "/Dharanshu/Table.git/index.html",
+    "main.3ec5730f.css.map": "/Dharanshu/Table.git/static/css/main.3ec5730f.css.map",
+    "main.618d7017.js.map": "/Dharanshu/Table.git/static/js/main.618d7017.js.map",
+    "453.3ab8d62e.chunk.js.map": "/Dharanshu/Table.git/static/js/453.3ab8d62e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ec5730f.css",
+    "static/js/main.618d7017.js"
+  ]
+}
